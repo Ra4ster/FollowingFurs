@@ -1,7 +1,9 @@
 # 🐾 Following Furs — Community Guidelines
-![FollowingFurs Mascot](https://pbs.twimg.com/media/Gg32ERoWIAAtV6N?format=jpg&name=large)
 
-<div align="center">Welcome to <b>Following Furs</b>!<br/></div>  
+<div align="center">
+  <img src="https://pbs.twimg.com/media/Gg32ERoWIAAtV6N?format=jpg&name=large" alt="FollowingFurs Mascot" width="200"/><br/>
+  Welcome to <b>Following Furs</b>!<br/>
+</div>  
 This account is an <b>SFW and inclusive safespace</b> for all furries. To keep things positive, please read and follow these guidelines:
 
 ---
