@@ -2,7 +2,7 @@
 ---
 | Staff Member | Position   | Twitter Handle(s)|
 |--------------|------------|------------------|
-| Ra4          | Owner      | @__Ra4__         |
+| Ra4          | Owner      | @\_\_Ra4\_\_         |
 | Pip/Galactic | Head Admin | @Galactic_Proto  |
 | Apple/Leaf   | Artist Associate|@applefox420 |
 
